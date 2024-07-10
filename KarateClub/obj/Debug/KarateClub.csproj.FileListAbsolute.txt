@@ -1,0 +1,289 @@
+E:\KarateClub\bin\Debug\KarateClub.exe.config
+E:\KarateClub\bin\Debug\KarateClub.exe
+E:\KarateClub\bin\Debug\KarateClub.pdb
+E:\KarateClub\bin\Debug\clsKarateBussinse.dll
+E:\KarateClub\bin\Debug\clsKarateDataAccesse.dll
+E:\KarateClub\bin\Debug\clsKarateBussinse.pdb
+E:\KarateClub\bin\Debug\clsKarateDataAccesse.pdb
+E:\KarateClub\obj\Debug\KarateClub.csproj.AssemblyReference.cache
+E:\KarateClub\obj\Debug\KarateClub.csproj.SuggestedBindingRedirects.cache
+E:\KarateClub\obj\Debug\KarateClub.Properties.Resources.resources
+E:\KarateClub\obj\Debug\KarateClub.csproj.GenerateResource.cache
+E:\KarateClub\obj\Debug\KarateClub.csproj.CoreCompileInputs.cache
+E:\KarateClub\obj\Debug\KarateClub.csproj.CopyComplete
+E:\KarateClub\obj\Debug\KarateClub.exe
+E:\KarateClub\obj\Debug\KarateClub.pdb
+E:\KarateClub\obj\Debug\KarateClub.frmLogin.resources
+E:\KarateClub\obj\Debug\KarateClub.frmMainScreen.resources
+E:\KarateClub\obj\Debug\KarateClub.frmAddAndUpdateMembers.resources
+E:\KarateClub\obj\Debug\KarateClub.cltMemberInformation.resources
+E:\KarateClub\obj\Debug\KarateClub.cltPersonInformation.resources
+E:\KarateClub\obj\Debug\KarateClub.frmMemberDetails.resources
+E:\KarateClub\obj\Debug\KarateClub.frmAddNewSubscription.resources
+E:\KarateClub\obj\Debug\KarateClub.cltFilterMember.resources
+E:\KarateClub\obj\Debug\KarateClub.cltMemberHistory.resources
+E:\KarateClub\obj\Debug\KarateClub.frmSubscriptionPireodHistory.resources
+E:\KarateClub\obj\Debug\KarateClub.cltPeriodDetails.resources
+E:\KarateClub\obj\Debug\KarateClub.frmPeriodDetails.resources
+E:\KarateClub\obj\Debug\KarateClub.cltInstructorDetails.resources
+E:\KarateClub\obj\Debug\KarateClub.cltUserDetails.resources
+E:\KarateClub\obj\Debug\KarateClub.cltTrianedHistory.resources
+E:\KarateClub\obj\Debug\KarateClub.frmAddNewAndUpdateInstructor.resources
+E:\KarateClub\obj\Debug\KarateClub.frmInstuctorDetails.resources
+E:\KarateClub\obj\Debug\KarateClub.frmShowTrainedMembers.resources
+E:\KarateClub\obj\Debug\KarateClub.cltFilterInstuctor.resources
+E:\KarateClub\obj\Debug\KarateClub.cltSelectMamberAndInstructor.resources
+E:\KarateClub\obj\Debug\KarateClub.frmAddAndUpdateMembersInstructors.resources
+E:\KarateClub\obj\Debug\KarateClub.frmAddAndUpdateUser.resources
+E:\KarateClub\obj\Debug\KarateClub.frmChangePassword.resources
+E:\KarateClub\obj\Debug\KarateClub.frmUserDetails.resources
+E:\KarateClub\obj\Debug\KarateClub.cltMembersInstructorsDetails.resources
+E:\KarateClub\obj\Debug\KarateClub.frmShowDetailsMembersInstructors.resources
+E:\KarateClub\obj\Debug\KarateClub.frmUpdateBeltRanks.resources
+E:\KarateClub\obj\Debug\KarateClub.frmAddAndUpdateTest.resources
+E:\KarateClub\obj\Debug\KarateClub.cltBeltTestInformation.resources
+E:\KarateClub\obj\Debug\KarateClub.frmShowTestDetails.resources
+E:\KarateClub\obj\Debug\KarateClub.cltTesstHistory.resources
+E:\KarateClub\obj\Debug\KarateClub.frmMemberTestHistory.resources
+E:\KarateClub\obj\Debug\KarateClub.cltPaymentInformation.resources
+E:\KarateClub\obj\Debug\KarateClub.frmPaymentDetails.resources
+E:\KarateClub\obj\Debug\KarateClub.cltPaymentHistory.resources
+E:\KarateClub\obj\Debug\KarateClub.frmPaymentHistory.resources
+E:\Karate Club Project\KarateClub\bin\Debug\KarateClub.exe.config
+E:\Karate Club Project\KarateClub\bin\Debug\KarateClub.exe
+E:\Karate Club Project\KarateClub\bin\Debug\KarateClub.pdb
+E:\Karate Club Project\KarateClub\bin\Debug\clsKarateBussinse.dll
+E:\Karate Club Project\KarateClub\bin\Debug\clsKarateDataAccesse.dll
+E:\Karate Club Project\KarateClub\bin\Debug\clsKarateBussinse.pdb
+E:\Karate Club Project\KarateClub\bin\Debug\clsKarateDataAccesse.pdb
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.csproj.AssemblyReference.cache
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.csproj.SuggestedBindingRedirects.cache
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmUpdateBeltRanks.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltPaymentHistory.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltPaymentInformation.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmPaymentDetails.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmPaymentHistory.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltBeltTestInformation.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltTesstHistory.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddAndUpdateTest.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmMemberTestHistory.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmShowTestDetails.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltFilterInstuctor.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltMembersInstructorsDetails.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltSelectMamberAndInstructor.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddAndUpdateMembersInstructors.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmShowDetailsMembersInstructors.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltUserDetails.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddAndUpdateUser.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmChangePassword.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmUserDetails.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltInstructorDetails.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddNewAndUpdateInstructor.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmInstuctorDetails.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmShowTrainedMembers.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltPeriodDetails.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmPeriodDetails.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltMemberHistory.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmSubscriptionPireodHistory.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltFilterMember.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddNewSubscription.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltMemberInformation.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltPersonInformation.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmMemberDetails.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmLogin.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddAndUpdateMembers.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.Properties.Resources.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.csproj.GenerateResource.cache
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.csproj.CoreCompileInputs.cache
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.csproj.CopyComplete
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.exe
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.pdb
+F:\Karate Club Project\KarateClub\bin\Debug\KarateClub.exe.config
+F:\Karate Club Project\KarateClub\bin\Debug\KarateClub.exe
+F:\Karate Club Project\KarateClub\bin\Debug\KarateClub.pdb
+F:\Karate Club Project\KarateClub\bin\Debug\clsKarateBussinse.dll
+F:\Karate Club Project\KarateClub\bin\Debug\clsKarateDataAccesse.dll
+F:\Karate Club Project\KarateClub\bin\Debug\clsKarateBussinse.pdb
+F:\Karate Club Project\KarateClub\bin\Debug\clsKarateDataAccesse.pdb
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.csproj.AssemblyReference.cache
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.csproj.SuggestedBindingRedirects.cache
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmUpdateBeltRanks.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmMain.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltPaymentHistory.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltPaymentInformation.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmPaymentDetails.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmPaymentHistory.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltBeltTestInformation.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltTesstHistory.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddAndUpdateTest.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmMemberTestHistory.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmShowTestDetails.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltFilterInstuctor.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltMembersInstructorsDetails.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltSelectMamberAndInstructor.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddAndUpdateMembersInstructors.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmShowDetailsMembersInstructors.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltUserDetails.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddAndUpdateUser.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmChangePassword.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmUserDetails.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltInstructorDetails.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltTrianedHistory.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddNewAndUpdateInstructor.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmInstuctorDetails.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmShowTrainedMembers.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltPeriodDetails.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmPeriodDetails.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltMemberHistory.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmSubscriptionPireodHistory.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltFilterMember.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddNewSubscription.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltMemberInformation.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltPersonInformation.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmMainScreen.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmMemberDetails.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmLogin.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddAndUpdateMembers.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.Properties.Resources.resources
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.csproj.GenerateResource.cache
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.csproj.CoreCompileInputs.cache
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.csproj.CopyComplete
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.exe
+F:\Karate Club Project\KarateClub\obj\Debug\KarateClub.pdb
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmMain.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmDashboard.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmListMembers.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmLisInstructors.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmListBeltRanks.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmListBeltTests.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmListMembersInstructors.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmListPayments.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmListSubscriptionPeriod.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmListUsers.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.ctlTrainedHistory.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmRenewPeriod.resources
+E:\Karate Club Project\KarateClub\obj\Debug\KarateClub.subscription_Period.Controls.cltFilterPeriod.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.csproj.AssemblyReference.cache
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.csproj.SuggestedBindingRedirects.cache
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmUpdateBeltRanks.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.subscription_Period.Controls.cltFilterPeriod.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmRenewPeriod.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.ctlTrainedHistory.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmDashboard.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmLisInstructors.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmListBeltRanks.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmListBeltTests.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmListMembersInstructors.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmListPayments.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmListSubscriptionPeriod.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmListUsers.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmListMembers.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmMain.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltPaymentHistory.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltPaymentInformation.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmPaymentDetails.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmPaymentHistory.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltBeltTestInformation.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltTesstHistory.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddAndUpdateTest.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmMemberTestHistory.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmShowTestDetails.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltFilterInstuctor.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltMembersInstructorsDetails.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltSelectMamberAndInstructor.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddAndUpdateMembersInstructors.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmShowDetailsMembersInstructors.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltUserDetails.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddAndUpdateUser.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmChangePassword.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmUserDetails.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltInstructorDetails.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddNewAndUpdateInstructor.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmInstuctorDetails.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmShowTrainedMembers.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltPeriodDetails.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmPeriodDetails.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltMemberHistory.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmSubscriptionPireodHistory.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltFilterMember.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddNewSubscription.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltMemberInformation.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltPersonInformation.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmMemberDetails.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmLogin.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddAndUpdateMembers.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.Properties.Resources.resources
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.csproj.GenerateResource.cache
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.csproj.CoreCompileInputs.cache
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.exe
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.pdb
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\bin\Debug\KarateClub.exe.config
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\bin\Debug\KarateClub.exe
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\bin\Debug\KarateClub.pdb
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\bin\Debug\clsKarateBussinse.dll
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\bin\Debug\clsKarateDataAccesse.dll
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\bin\Debug\clsKarateBussinse.pdb
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\bin\Debug\clsKarateDataAccesse.pdb
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\KarateClub\obj\Debug\KarateClub.csproj.CopyComplete
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\bin\Debug\KarateClub.exe.config
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\bin\Debug\KarateClub.exe
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\bin\Debug\KarateClub.pdb
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\bin\Debug\clsKarateBussinse.dll
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\bin\Debug\clsKarateDataAccesse.dll
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\bin\Debug\clsKarateBussinse.pdb
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\bin\Debug\clsKarateDataAccesse.pdb
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.csproj.AssemblyReference.cache
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.csproj.SuggestedBindingRedirects.cache
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmUpdateBeltRanks.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.subscription_Period.Controls.cltFilterPeriod.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmRenewPeriod.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.ctlTrainedHistory.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmDashboard.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmLisInstructors.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmListBeltRanks.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmListBeltTests.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmListMembersInstructors.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmListPayments.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmListSubscriptionPeriod.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmListUsers.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmListMembers.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmMain.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltPaymentHistory.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltPaymentInformation.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmPaymentDetails.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmPaymentHistory.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltBeltTestInformation.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltTesstHistory.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddAndUpdateTest.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmMemberTestHistory.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmShowTestDetails.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltFilterInstuctor.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltMembersInstructorsDetails.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltSelectMamberAndInstructor.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddAndUpdateMembersInstructors.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmShowDetailsMembersInstructors.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltUserDetails.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddAndUpdateUser.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmChangePassword.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmUserDetails.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltInstructorDetails.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddNewAndUpdateInstructor.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmInstuctorDetails.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmShowTrainedMembers.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltPeriodDetails.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmPeriodDetails.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltMemberHistory.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmSubscriptionPireodHistory.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltFilterMember.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddNewSubscription.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltMemberInformation.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.cltPersonInformation.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmMemberDetails.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmLogin.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.frmAddAndUpdateMembers.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.Properties.Resources.resources
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.csproj.GenerateResource.cache
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.csproj.CoreCompileInputs.cache
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.csproj.CopyComplete
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.exe
+E:\المشاريع التي يجب أضافتها على قيت هوب\Karate Club Project\KarateClub\obj\Debug\KarateClub.pdb

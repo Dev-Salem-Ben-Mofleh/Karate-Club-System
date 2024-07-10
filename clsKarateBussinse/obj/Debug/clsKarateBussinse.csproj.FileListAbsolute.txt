@@ -1,0 +1,36 @@
+E:\clsKarateBussinse\bin\Debug\clsKarateBussinse.dll
+E:\clsKarateBussinse\bin\Debug\clsKarateBussinse.pdb
+E:\clsKarateBussinse\bin\Debug\clsKarateDataAccesse.dll
+E:\clsKarateBussinse\bin\Debug\clsKarateDataAccesse.pdb
+E:\clsKarateBussinse\obj\Debug\clsKarateBussinse.csproj.AssemblyReference.cache
+E:\clsKarateBussinse\obj\Debug\clsKarateBussinse.csproj.CoreCompileInputs.cache
+E:\clsKarateBussinse\obj\Debug\clsKarateBussinse.csproj.CopyComplete
+E:\clsKarateBussinse\obj\Debug\clsKarateBussinse.dll
+E:\clsKarateBussinse\obj\Debug\clsKarateBussinse.pdb
+F:\Karate Club Project\clsKarateBussinse\bin\Debug\clsKarateBussinse.dll
+F:\Karate Club Project\clsKarateBussinse\bin\Debug\clsKarateBussinse.pdb
+F:\Karate Club Project\clsKarateBussinse\bin\Debug\clsKarateDataAccesse.dll
+F:\Karate Club Project\clsKarateBussinse\bin\Debug\clsKarateDataAccesse.pdb
+F:\Karate Club Project\clsKarateBussinse\obj\Debug\clsKarateBussinse.csproj.AssemblyReference.cache
+F:\Karate Club Project\clsKarateBussinse\obj\Debug\clsKarateBussinse.csproj.CoreCompileInputs.cache
+F:\Karate Club Project\clsKarateBussinse\obj\Debug\clsKarateBussinse.csproj.CopyComplete
+F:\Karate Club Project\clsKarateBussinse\obj\Debug\clsKarateBussinse.dll
+F:\Karate Club Project\clsKarateBussinse\obj\Debug\clsKarateBussinse.pdb
+E:\Karate Club Project\clsKarateBussinse\bin\Debug\clsKarateBussinse.dll
+E:\Karate Club Project\clsKarateBussinse\bin\Debug\clsKarateBussinse.pdb
+E:\Karate Club Project\clsKarateBussinse\bin\Debug\clsKarateDataAccesse.dll
+E:\Karate Club Project\clsKarateBussinse\bin\Debug\clsKarateDataAccesse.pdb
+E:\Karate Club Project\clsKarateBussinse\obj\Debug\clsKarateBussinse.csproj.AssemblyReference.cache
+E:\Karate Club Project\clsKarateBussinse\obj\Debug\clsKarateBussinse.csproj.CoreCompileInputs.cache
+E:\Karate Club Project\clsKarateBussinse\obj\Debug\clsKarateBussinse.csproj.CopyComplete
+E:\Karate Club Project\clsKarateBussinse\obj\Debug\clsKarateBussinse.dll
+E:\Karate Club Project\clsKarateBussinse\obj\Debug\clsKarateBussinse.pdb
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\clsKarateBussinse\bin\Debug\clsKarateBussinse.dll
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\clsKarateBussinse\bin\Debug\clsKarateBussinse.pdb
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\clsKarateBussinse\bin\Debug\clsKarateDataAccesse.dll
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\clsKarateBussinse\bin\Debug\clsKarateDataAccesse.pdb
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\clsKarateBussinse\obj\Debug\clsKarateBussinse.csproj.AssemblyReference.cache
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\clsKarateBussinse\obj\Debug\clsKarateBussinse.csproj.CoreCompileInputs.cache
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\clsKarateBussinse\obj\Debug\clsKarateBussinse.csproj.CopyComplete
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\clsKarateBussinse\obj\Debug\clsKarateBussinse.dll
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\clsKarateBussinse\obj\Debug\clsKarateBussinse.pdb

@@ -1,0 +1,24 @@
+E:\clsKarateDataAccesse\bin\Debug\clsKarateDataAccesse.dll
+E:\clsKarateDataAccesse\bin\Debug\clsKarateDataAccesse.pdb
+E:\clsKarateDataAccesse\obj\Debug\clsKarateDataAccesse.csproj.AssemblyReference.cache
+E:\clsKarateDataAccesse\obj\Debug\clsKarateDataAccesse.csproj.CoreCompileInputs.cache
+E:\clsKarateDataAccesse\obj\Debug\clsKarateDataAccesse.dll
+E:\clsKarateDataAccesse\obj\Debug\clsKarateDataAccesse.pdb
+F:\Karate Club Project\clsKarateDataAccesse\bin\Debug\clsKarateDataAccesse.dll
+F:\Karate Club Project\clsKarateDataAccesse\bin\Debug\clsKarateDataAccesse.pdb
+F:\Karate Club Project\clsKarateDataAccesse\obj\Debug\clsKarateDataAccesse.csproj.AssemblyReference.cache
+F:\Karate Club Project\clsKarateDataAccesse\obj\Debug\clsKarateDataAccesse.csproj.CoreCompileInputs.cache
+F:\Karate Club Project\clsKarateDataAccesse\obj\Debug\clsKarateDataAccesse.dll
+F:\Karate Club Project\clsKarateDataAccesse\obj\Debug\clsKarateDataAccesse.pdb
+E:\Karate Club Project\clsKarateDataAccesse\bin\Debug\clsKarateDataAccesse.dll
+E:\Karate Club Project\clsKarateDataAccesse\bin\Debug\clsKarateDataAccesse.pdb
+E:\Karate Club Project\clsKarateDataAccesse\obj\Debug\clsKarateDataAccesse.csproj.AssemblyReference.cache
+E:\Karate Club Project\clsKarateDataAccesse\obj\Debug\clsKarateDataAccesse.csproj.CoreCompileInputs.cache
+E:\Karate Club Project\clsKarateDataAccesse\obj\Debug\clsKarateDataAccesse.dll
+E:\Karate Club Project\clsKarateDataAccesse\obj\Debug\clsKarateDataAccesse.pdb
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\clsKarateDataAccesse\bin\Debug\clsKarateDataAccesse.dll
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\clsKarateDataAccesse\bin\Debug\clsKarateDataAccesse.pdb
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\clsKarateDataAccesse\obj\Debug\clsKarateDataAccesse.csproj.AssemblyReference.cache
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\clsKarateDataAccesse\obj\Debug\clsKarateDataAccesse.csproj.CoreCompileInputs.cache
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\clsKarateDataAccesse\obj\Debug\clsKarateDataAccesse.dll
+E:\مهم جدا أبو هدوهد\مشاريع مهمة\Karate Club Project\clsKarateDataAccesse\obj\Debug\clsKarateDataAccesse.pdb

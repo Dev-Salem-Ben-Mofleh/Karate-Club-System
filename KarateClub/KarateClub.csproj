@@ -1,0 +1,718 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C6200591-7B86-4D5C-90A4-427F64365FE2}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>KarateClub</RootNamespace>
+    <AssemblyName>KarateClub</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Guna.UI2, Version=2.0.4.6, Culture=neutral, PublicKeyToken=8b9d14aa5142e261" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="subscription Period\Controls\cltFilterPeriod.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="subscription Period\Controls\cltFilterPeriod.Designer.cs">
+      <DependentUpon>cltFilterPeriod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="subscription Period\frmRenewPeriod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="subscription Period\frmRenewPeriod.Designer.cs">
+      <DependentUpon>frmRenewPeriod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global\clsPemission.cs" />
+    <Compile Include="Istructor\Controls\ctlTrainedHistory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Istructor\Controls\ctlTrainedHistory.Designer.cs">
+      <DependentUpon>ctlTrainedHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Dashboard\frmDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Dashboard\frmDashboard.Designer.cs">
+      <DependentUpon>frmDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global\clsUtil.cs" />
+    <Compile Include="Istructor\frmLisInstructors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Istructor\frmLisInstructors.Designer.cs">
+      <DependentUpon>frmLisInstructors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Belt Ranks\frmListBeltRanks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Belt Ranks\frmListBeltRanks.Designer.cs">
+      <DependentUpon>frmListBeltRanks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tests\frmListBeltTests.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tests\frmListBeltTests.Designer.cs">
+      <DependentUpon>frmListBeltTests.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Members-Instructors\frmListMembersInstructors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Members-Instructors\frmListMembersInstructors.Designer.cs">
+      <DependentUpon>frmListMembersInstructors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payments\frmListPayments.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payments\frmListPayments.Designer.cs">
+      <DependentUpon>frmListPayments.cs</DependentUpon>
+    </Compile>
+    <Compile Include="subscription Period\frmListSubscriptionPeriod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="subscription Period\frmListSubscriptionPeriod.Designer.cs">
+      <DependentUpon>frmListSubscriptionPeriod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\frmListUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\frmListUsers.Designer.cs">
+      <DependentUpon>frmListUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Members\frmListMembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Members\frmListMembers.Designer.cs">
+      <DependentUpon>frmListMembers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payments\Controls\cltPaymentHistory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Payments\Controls\cltPaymentHistory.Designer.cs">
+      <DependentUpon>cltPaymentHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payments\Controls\cltPaymentInformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Payments\Controls\cltPaymentInformation.Designer.cs">
+      <DependentUpon>cltPaymentInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payments\frmPaymentDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payments\frmPaymentDetails.Designer.cs">
+      <DependentUpon>frmPaymentDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Payments\frmPaymentHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Payments\frmPaymentHistory.Designer.cs">
+      <DependentUpon>frmPaymentHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <DependentUpon>Resources.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="Tests\Controls\cltBeltTestInformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Tests\Controls\cltBeltTestInformation.Designer.cs">
+      <DependentUpon>cltBeltTestInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tests\Controls\cltTesstHistory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Tests\Controls\cltTesstHistory.Designer.cs">
+      <DependentUpon>cltTesstHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tests\frmAddAndUpdateTest.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tests\frmAddAndUpdateTest.Designer.cs">
+      <DependentUpon>frmAddAndUpdateTest.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Belt Ranks\frmUpdateBeltRanks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Belt Ranks\frmUpdateBeltRanks.Designer.cs">
+      <DependentUpon>frmUpdateBeltRanks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tests\frmMemberTestHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tests\frmMemberTestHistory.Designer.cs">
+      <DependentUpon>frmMemberTestHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tests\frmShowTestDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tests\frmShowTestDetails.Designer.cs">
+      <DependentUpon>frmShowTestDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Istructor\Controls\cltFilterInstuctor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Istructor\Controls\cltFilterInstuctor.Designer.cs">
+      <DependentUpon>cltFilterInstuctor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Members-Instructors\Controls\cltMembersInstructorsDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Members-Instructors\Controls\cltMembersInstructorsDetails.Designer.cs">
+      <DependentUpon>cltMembersInstructorsDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Members-Instructors\Controls\cltSelectMamberAndInstructor.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Members-Instructors\Controls\cltSelectMamberAndInstructor.Designer.cs">
+      <DependentUpon>cltSelectMamberAndInstructor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Members-Instructors\frmAddAndUpdateMembersInstructors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Members-Instructors\frmAddAndUpdateMembersInstructors.Designer.cs">
+      <DependentUpon>frmAddAndUpdateMembersInstructors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Members-Instructors\frmShowDetailsMembersInstructors.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Members-Instructors\frmShowDetailsMembersInstructors.Designer.cs">
+      <DependentUpon>frmShowDetailsMembersInstructors.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\Controls\cltUserDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users\Controls\cltUserDetails.Designer.cs">
+      <DependentUpon>cltUserDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\frmAddAndUpdateUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\frmAddAndUpdateUser.Designer.cs">
+      <DependentUpon>frmAddAndUpdateUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\frmChangePassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\frmChangePassword.Designer.cs">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users\frmUserDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Users\frmUserDetails.Designer.cs">
+      <DependentUpon>frmUserDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Istructor\Controls\cltInstructorDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Istructor\Controls\cltInstructorDetails.Designer.cs">
+      <DependentUpon>cltInstructorDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Istructor\frmAddNewAndUpdateInstructor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Istructor\frmAddNewAndUpdateInstructor.Designer.cs">
+      <DependentUpon>frmAddNewAndUpdateInstructor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Istructor\frmInstuctorDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Istructor\frmInstuctorDetails.Designer.cs">
+      <DependentUpon>frmInstuctorDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Istructor\frmShowTrainedMembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Istructor\frmShowTrainedMembers.Designer.cs">
+      <DependentUpon>frmShowTrainedMembers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="subscription Period\Controls\cltPeriodDetails.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="subscription Period\Controls\cltPeriodDetails.Designer.cs">
+      <DependentUpon>cltPeriodDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="subscription Period\frmPeriodDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="subscription Period\frmPeriodDetails.Designer.cs">
+      <DependentUpon>frmPeriodDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="subscription Period\Controls\cltMemberHistory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="subscription Period\Controls\cltMemberHistory.Designer.cs">
+      <DependentUpon>cltMemberHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="subscription Period\frmSubscriptionPireodHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="subscription Period\frmSubscriptionPireodHistory.Designer.cs">
+      <DependentUpon>frmSubscriptionPireodHistory.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Members\Cntrols\cltFilterMember.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Members\Cntrols\cltFilterMember.Designer.cs">
+      <DependentUpon>cltFilterMember.cs</DependentUpon>
+    </Compile>
+    <Compile Include="subscription Period\frmAddNewSubscription.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="subscription Period\frmAddNewSubscription.Designer.cs">
+      <DependentUpon>frmAddNewSubscription.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Members\Cntrols\cltMemberInformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Members\Cntrols\cltMemberInformation.Designer.cs">
+      <DependentUpon>cltMemberInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Members\Cntrols\cltPersonInformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Members\Cntrols\cltPersonInformation.Designer.cs">
+      <DependentUpon>cltPersonInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Members\frmMemberDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Members\frmMemberDetails.Designer.cs">
+      <DependentUpon>frmMemberDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Members\frmAddAndUpdateMembers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Members\frmAddAndUpdateMembers.Designer.cs">
+      <DependentUpon>frmAddAndUpdateMembers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Global\clsFormat.cs" />
+    <Compile Include="Global\clsGlobal.cs" />
+    <Compile Include="Global\clsLoggingEvent.cs" />
+    <Compile Include="Global\clsValidation.cs" />
+    <Compile Include="Login\frmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login\frmLogin.Designer.cs">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Belt Ranks\frmUpdateBeltRanks.resx">
+      <DependentUpon>frmUpdateBeltRanks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subscription Period\Controls\cltFilterPeriod.resx">
+      <DependentUpon>cltFilterPeriod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subscription Period\frmRenewPeriod.resx">
+      <DependentUpon>frmRenewPeriod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Istructor\Controls\ctlTrainedHistory.resx">
+      <DependentUpon>ctlTrainedHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Dashboard\frmDashboard.resx">
+      <DependentUpon>frmDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Istructor\frmLisInstructors.resx">
+      <DependentUpon>frmLisInstructors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Belt Ranks\frmListBeltRanks.resx">
+      <DependentUpon>frmListBeltRanks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tests\frmListBeltTests.resx">
+      <DependentUpon>frmListBeltTests.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Members-Instructors\frmListMembersInstructors.resx">
+      <DependentUpon>frmListMembersInstructors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payments\frmListPayments.resx">
+      <DependentUpon>frmListPayments.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subscription Period\frmListSubscriptionPeriod.resx">
+      <DependentUpon>frmListSubscriptionPeriod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\frmListUsers.resx">
+      <DependentUpon>frmListUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Members\frmListMembers.resx">
+      <DependentUpon>frmListMembers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payments\Controls\cltPaymentHistory.resx">
+      <DependentUpon>cltPaymentHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payments\Controls\cltPaymentInformation.resx">
+      <DependentUpon>cltPaymentInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payments\frmPaymentDetails.resx">
+      <DependentUpon>frmPaymentDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Payments\frmPaymentHistory.resx">
+      <DependentUpon>frmPaymentHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tests\Controls\cltBeltTestInformation.resx">
+      <DependentUpon>cltBeltTestInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tests\Controls\cltTesstHistory.resx">
+      <DependentUpon>cltTesstHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tests\frmAddAndUpdateTest.resx">
+      <DependentUpon>frmAddAndUpdateTest.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tests\frmMemberTestHistory.resx">
+      <DependentUpon>frmMemberTestHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tests\frmShowTestDetails.resx">
+      <DependentUpon>frmShowTestDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Istructor\Controls\cltFilterInstuctor.resx">
+      <DependentUpon>cltFilterInstuctor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Members-Instructors\Controls\cltMembersInstructorsDetails.resx">
+      <DependentUpon>cltMembersInstructorsDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Members-Instructors\Controls\cltSelectMamberAndInstructor.resx">
+      <DependentUpon>cltSelectMamberAndInstructor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Members-Instructors\frmAddAndUpdateMembersInstructors.resx">
+      <DependentUpon>frmAddAndUpdateMembersInstructors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Members-Instructors\frmShowDetailsMembersInstructors.resx">
+      <DependentUpon>frmShowDetailsMembersInstructors.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\Controls\cltUserDetails.resx">
+      <DependentUpon>cltUserDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\frmAddAndUpdateUser.resx">
+      <DependentUpon>frmAddAndUpdateUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\frmChangePassword.resx">
+      <DependentUpon>frmChangePassword.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users\frmUserDetails.resx">
+      <DependentUpon>frmUserDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Istructor\Controls\cltInstructorDetails.resx">
+      <DependentUpon>cltInstructorDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Istructor\frmAddNewAndUpdateInstructor.resx">
+      <DependentUpon>frmAddNewAndUpdateInstructor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Istructor\frmInstuctorDetails.resx">
+      <DependentUpon>frmInstuctorDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Istructor\frmShowTrainedMembers.resx">
+      <DependentUpon>frmShowTrainedMembers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subscription Period\Controls\cltPeriodDetails.resx">
+      <DependentUpon>cltPeriodDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subscription Period\frmPeriodDetails.resx">
+      <DependentUpon>frmPeriodDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subscription Period\Controls\cltMemberHistory.resx">
+      <DependentUpon>cltMemberHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subscription Period\frmSubscriptionPireodHistory.resx">
+      <DependentUpon>frmSubscriptionPireodHistory.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Members\Cntrols\cltFilterMember.resx">
+      <DependentUpon>cltFilterMember.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="subscription Period\frmAddNewSubscription.resx">
+      <DependentUpon>frmAddNewSubscription.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Members\Cntrols\cltMemberInformation.resx">
+      <DependentUpon>cltMemberInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Members\Cntrols\cltPersonInformation.resx">
+      <DependentUpon>cltPersonInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Members\frmMemberDetails.resx">
+      <DependentUpon>frmMemberDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login\frmLogin.resx">
+      <DependentUpon>frmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Members\frmAddAndUpdateMembers.resx">
+      <DependentUpon>frmAddAndUpdateMembers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.manifest" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\clsKarateBussinse\clsKarateBussinse.csproj">
+      <Project>{9ae27be0-ef61-4c76-9cf6-bbe5cb6588f8}</Project>
+      <Name>clsKarateBussinse</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Add Person 72.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\New Application 64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Application Types 512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\closeBlack32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Person 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Male 512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Female 512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Email 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Man 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Woman 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Address 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Calendar 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Phone 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Save 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Password 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PersonDetails 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AddPerson 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Delete 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Written Test 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SearchPerson.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Question 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Notes 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Next 32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\karate %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\office-man.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\setting-lines.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\taekwondo %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\taekwondo %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\taekwondo %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\User.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\taekwondo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\subscription-model.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\belt1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Belt2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment-method.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\payment-method %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\judo %284%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\judo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\id %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Yes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Beltssssss.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\phone.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\profile %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\staff-management.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\belts.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\renewal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Payment.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\password.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Admin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-taekwondo-character-cartoon-png-image_14233150[1].png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Admin1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\online-community.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dashboard %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-people-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exercise.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\team.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\belt32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Subscription.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\karate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hand.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sign_out 32 -2.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
